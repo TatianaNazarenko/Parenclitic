@@ -1,4 +1,4 @@
-name: "cars"
+ name: "cars"
 output_dir: "docs"
 navbar:
   title: "Cars"
