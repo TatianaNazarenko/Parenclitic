@@ -1,4 +1,4 @@
-# 3D sphere
+# Sphere in Sphere - 3D
 [Visualisation](1_Sphere_3D_vis.html)
 ## Data
 - [Original Data](1_Sphere_3D_original_data.csv)
