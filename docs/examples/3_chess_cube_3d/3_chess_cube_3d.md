@@ -6,6 +6,8 @@
 - [Network Characterisitcs](3_chess_cube_3D_characteristics.csv)
 ## Results
 
+### Parenclitic
 ![Image](3_chess_cube_3D.png)
 
+### Other models
 ![Image](3_chess_cube_3D_other_models.png)
