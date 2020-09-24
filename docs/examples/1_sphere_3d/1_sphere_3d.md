@@ -6,6 +6,8 @@
 - [Network Characterisitcs](1_Sphere_3D_characteristics.csv)
 ## Results
 
+### Parenclitic
 ![Image](1_Sphere_3D.png)
 
+### Other models
 ![Image](1_Sphere_3D_other_models.png)
