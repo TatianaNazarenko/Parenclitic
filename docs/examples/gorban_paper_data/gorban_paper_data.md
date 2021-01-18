@@ -2,9 +2,9 @@
 ![Image](TABLE2.png)
 
 ## Results
-
+![Image](appr.png)
 ### Parenclitic
-![Image](1_Sphere_3D.png)
+![Image](pn_results.png)
 
 ### Other models
-![Image](1_Sphere_3D_other_models.png)
+
