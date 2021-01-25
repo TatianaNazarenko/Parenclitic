@@ -19,5 +19,10 @@ Determination of the degree of importance of characteristics (varImp) according 
 - **first max IMP** - Starting with the two most important characteristics, step by step adding the following important characteristic. At each stage, the calculation of the AUC on Train. Choice of characteristics in which the first local maximum in AUC is reached. Apply of the model built on it to the Test. Calculation of AUC on the Test. 
 
 ![Image](approaches.png)
+
+**Conclusions:** 
+- The best approach is the **first the best** (for each type of SVM). 
+- **Fast** SVM is not inferior to **Slow** SVM (and it seems even superior).
+
 ![Image](approaches_with_ch.png)
 ![Image](approaches_one_from_bin_or_weihghted.png)
