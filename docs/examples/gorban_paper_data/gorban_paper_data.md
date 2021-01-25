@@ -4,12 +4,14 @@
 ## The procedure for choosing a strategy for building a model based on characteristics
 ### Legend:
 #### Type of kernel SVM:
-- **fast** - Parenclitic built with Radial SVM from e1071 package 
-- **long** - Parenclitic built with Radial SVM from caret package (fix parameters (sigma = 1, C = 1), cv)
+- **fast** - Parenclitic built with Radial SVM from *e1071* package 
+- **long** - Parenclitic built with Radial SVM from *caret* package (fix parameters (sigma = 1, C = 1), cv)
 #### Type of approache:
 - **first the best** - Selection of the best characteristic on the Train (according to AUC) and apply to the Test. Calculation of AUCs on the Test.
 - **Lasso coef** - With the help of a Lasso model, the choice of characteristics (on Train) with non-zero weights; building models on them (on Train); apply to the Test. Calculation of AUC on the Test.
-*Approaches with Importance*
+
+*Approaches with Importance*:
+
 Determination of the degree of importance of characteristics (varImp) according to Train
 - **2 IMP** - Building a model on the two most important characteristics (on Train) and apply to thre Test. Calculation of AUC on the Test. 
 - **all IMP** - Building a model on the all important characteristics (on Train) and apply to the Test. Calculation of AUC on the Test. 
