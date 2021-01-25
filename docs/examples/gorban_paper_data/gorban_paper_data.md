@@ -24,5 +24,9 @@ Determination of the degree of importance of characteristics (varImp) according 
 - The best approach is the **first the best** (for each type of SVM). 
 - **Fast** SVM is not inferior to **Slow** SVM (and it seems even superior).
 
+![Image](list_of_best.png)
+
+### Checking each characteristic separately
 ![Image](approaches_with_ch.png)
+### Checking Weighted or Binary
 ![Image](approaches_one_from_bin_or_weihghted.png)
