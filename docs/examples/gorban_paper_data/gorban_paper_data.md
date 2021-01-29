@@ -28,5 +28,7 @@ Determination of the degree of importance of characteristics (varImp) according 
 
 ### Checking each characteristic separately
 ![Image](approaches_with_ch.png)
+### Paired Wilcoxon Test (with **first the best**, "greater")
+![Image](approaches_with_ch_dop.png)
 ### Checking Weighted or Binary
 ![Image](approaches_one_from_bin_or_weihghted.png)
