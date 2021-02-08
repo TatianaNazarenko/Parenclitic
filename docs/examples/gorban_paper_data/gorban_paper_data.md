@@ -32,3 +32,7 @@ Determination of the degree of importance of characteristics (varImp) according 
 ![Image](approaches_with_ch_dop.png)
 ### Checking Weighted or Binary
 ![Image](approaches_one_from_bin_or_weihghted.png)
+### Strengths of features VS row features
+![Image](strengths.png)
+### PN vs ROW 
+![Image](other_models_compare_with_best_PN.png)
