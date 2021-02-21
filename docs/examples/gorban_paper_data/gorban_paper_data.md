@@ -36,3 +36,4 @@ Determination of the degree of importance of characteristics (varImp) according 
 ![Image](strengths.png)
 ### PN vs ROW 
 ![Image](other_models_compare_with_best_PN.png)
+![Image](MAIN_FIG_R.png)
