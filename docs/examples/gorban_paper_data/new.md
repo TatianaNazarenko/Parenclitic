@@ -1,6 +1,12 @@
 * [Datasets](data_info_all.xlsx)
 
+![Image](data.png)
 
+![Image](chars_boxplots.png)
+![Image](dependence_features.png)
+![Image](dependence_ballance_b.png)
+
+![Image](data.png)
 
 # Table 2 (Gorban Paper)
 ![Image](TABLE2.png)
