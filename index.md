@@ -8,6 +8,7 @@ Artificial examples II:
 
 1. ["Spheres"](/docs/examples/spheres/spheres.md)
 2. ["Cubes"](/docs/examples/cubes/cubes.md)
+3. ["Cubes PCA"](/docs/examples/cubes_pca/cubes_pca.md)
 
 Real Data examples:
 1. [Gorban paper data](/docs/examples/gorban_paper_data/gorban_paper_data.md)
